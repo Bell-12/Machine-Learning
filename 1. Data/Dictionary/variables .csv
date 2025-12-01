@@ -1,0 +1,18 @@
+﻿VARIABLE  (inglés),TRADUCCION (español),UNIDAD
+permeability_md,Permeabilidad,miliDarcy (mD)
+porosity,Porosidad,fracción o %
+compressive_strength_mpa,Resistencia a la compresión,MPa
+cohesion_mpa,Cohesión,MPa
+friction_angle_deg,Ángulo de fricción,grados (°)
+grain_size_mm,Tamaño de grano,milímetros (mm)
+cement_quality,Calidad del cemento,adimensional / cualitativo
+clay_content,Contenido de arcilla,fracción o %
+reservoir_pressure_bar,Presión del yacimiento,bar
+temperature_c,Temperatura,°C
+water_saturation,Saturación de agua,fracción o %
+perforation_density_spm,Densidad de perforaciones,disparos por metro (spm)
+flow_rate_m3day,Caudal de producción,m³/día
+drawdown_pressure_bar,Presión diferencial (drawdown),bar
+oil_viscosity_cp,Viscosidad del petróleo,centipoise (cP)
+oil_density_kgm3,Densidad del petróleo,kg/m³
+sand_production_rate_kgday,Tasa de producción de arena,kg/día
